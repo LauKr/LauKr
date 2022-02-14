@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laurenz (@LauKr)
 - 👀 I’m interested in all kind of stuff, starting from IT Security, Raspberry Pis and of course physics. 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to manage all my raspberries with ansible and doing some things with artificial intelligence. Furthermore I'm trying some new languages like rust.
 
 ### I mainly use my gitlab for working on own stuff like python scripts for daily use or an AI learning to play an own flappy bird clone, all in python as well.
 
