@@ -4,12 +4,13 @@
 - Also trying to get into CTFs at the moment.
 
 
-```
-I mainly use my gitlab for working on own stuff like python scripts for daily use or an AI learning to play an own flappy bird clone, all in python as well.
 
-Make sure to drop by: [https://gitlab.com/LauKr](https://gitlab.com/LauKr)
-Most repositories here are only mirrored.
-```
+
+>I mainly use my gitlab for working on own stuff like python scripts for daily use or an AI learning to play an own flappy bird clone, all in python as well.
+>
+>Make sure to drop by: [https://gitlab.com/LauKr](https://gitlab.com/LauKr)\
+>Most repositories here are only mirrored.
+>
 <!---
 LauKr/LauKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
