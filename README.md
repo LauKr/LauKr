@@ -50,6 +50,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LauKr&show_icons=true&locale=en&layout=compact" alt="LauKr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laukr&show_icons=true&locale=en" alt="laukr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laukr&" alt="laukr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laukr&show_icons=true&locale=en" alt="laukr" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laukr&" alt="laukr" /></p>
