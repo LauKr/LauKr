@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lau</h1>
 <h3 align="center">An IT enthusiast from Germany</h3>
 
-<!-- -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LauKr&label=Profile%20views&color=0e75b6&style=flat" alt="LauKr" /> </p> 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LauKr" alt="LauKr" /></a> </p> -->
