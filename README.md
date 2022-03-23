@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning different things like rust or engage myself in some beginner CTFs
 
-- 💬 Ask me about whatever you want, we'll see if I can answer :) But if you really want to know something then try solid state physics, my Raspberry Pi projects or my Network Layout.
+- 💬 Ask me about whatever you want, we'll see if I can answer :) But if you really want to get an answer then try solid state physics, LaTeX, my Raspberry Pi projects or my Network Layout.
 
 - 📫 How to reach me [via mail](mailto:info@laurenzkruty.de)
 
